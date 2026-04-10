@@ -1,0 +1,28 @@
+{
+  "name": "moneywise-api",
+  "version": "1.0.0",
+  "description": "Repositorio para la API de la experiencia educativa de Despliegue de Software",
+  "main": "index.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/salvador-martinezjim/moneywise-api.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/salvador-martinezjim/moneywise-api/issues"
+  },
+  "homepage": "https://github.com/salvador-martinezjim/moneywise-api#readme",
+  "dependencies": {
+    "cors": "^2.8.6",
+    "dotenv": "^17.4.1",
+    "express": "^5.2.1"
+  }
+}
